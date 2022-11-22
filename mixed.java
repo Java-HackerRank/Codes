@@ -5,6 +5,7 @@ public class mixed {
 
     public static void main(String[] args) throws Exception {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        //JSON, Map 
         int i=0,a,b,n,c;
         Scanner scanner = new Scanner(System.in);
         
