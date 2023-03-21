@@ -1,0 +1,5 @@
+//RegEx
+
+function regexVar(){
+
+}
